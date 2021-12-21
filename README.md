@@ -3,7 +3,7 @@
 In this I made a analog clock prototype using esp32 and LEDs.
 
 
-![image](https://user-images.githubusercontent.com/70768880/146915396-0ae8e69d-dc10-443a-bfd1-7c4e6f0a352e.png | scale = 0.5)
+![image](https://user-images.githubusercontent.com/70768880/146915396-0ae8e69d-dc10-443a-bfd1-7c4e6f0a352e.png =250xx250)
 
 Errors faced:
 

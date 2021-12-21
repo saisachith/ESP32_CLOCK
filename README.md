@@ -10,7 +10,7 @@ Errors faced:
 ![image](https://user-images.githubusercontent.com/70768880/146915474-0d0da352-8e3c-4dbb-ba14-070a09433cdd.png)
 
 Circuit diagram:
-![image](https://user-images.githubusercontent.com/70768880/146915797-84354208-d3be-4f87-9f80-1b465cd6419c.png){:height="50%"}
+![image](https://user-images.githubusercontent.com/70768880/146915797-84354208-d3be-4f87-9f80-1b465cd6419c.png){:height="25%"}
 
 the led at the bottom is to determine if it is AM of PM.
 i.e. If it glow then it is PM else it is AM.

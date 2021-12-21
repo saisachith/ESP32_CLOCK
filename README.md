@@ -22,7 +22,7 @@ Attach only 14 Leds i.e. 2 digit number.
 For differentiation between hours, minutes and Seconds with a small delay.
 As this circuit is more complex I went with the analog display.
 
-##### drawback of going with analog clock
+##### Drawback of going with analog clock
 we cannot accuratly display the minutes as there are only 12 leds representing 1 2 .. 12 i.e. 0 5 10 .. 55.
 For time with minutes falling in between these multiple of 5s I chose to decrease the brightness of the leds with pwm in ESP32.
 
